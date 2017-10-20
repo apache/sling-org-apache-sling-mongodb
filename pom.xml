@@ -35,9 +35,9 @@
     <name>Apache Sling MongoDB Resource Provider</name>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/mongodb</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/mongodb</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/contrib/extensions/mongodb</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-mongodb.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-mongodb.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-mongodb.git</url>
     </scm>
 
     <build>
