@@ -1,4 +1,10 @@
 github:
+  description: "Apache Sling MongoDB Resource Provider (deprecated)"
+  homepage: "https://sling.apache.org/"
+  labels:
+  - "sling"
+  - "java"
+  - "deprecated"
   autolink_jira:
   - "SLING"
   - "OAK"
